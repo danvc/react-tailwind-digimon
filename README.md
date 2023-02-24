@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Simple Digimon Search Example
 
 Pretty simple implementation to learn more about Grid. No fancy stufs over here.
 
